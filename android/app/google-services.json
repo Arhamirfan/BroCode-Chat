@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "870686217400",
+    "project_id": "brocode-talk",
+    "storage_bucket": "brocode-talk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870686217400:android:b16fe596b5e883fffb504d",
+        "android_client_info": {
+          "package_name": "com.slayer.brocode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870686217400-rr2aom8p2egkvumkjt44jr4uee0fjvi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgA0ENGio_2RWPG814RVk2U7D3vg1fCpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870686217400-rr2aom8p2egkvumkjt44jr4uee0fjvi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
