@@ -1,4 +1,4 @@
-# Flash Chat ⚡️
+# Bro Code Chat ⚡️
 
 ## Goal
 
