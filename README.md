@@ -22,5 +22,4 @@ We’re going to build a modern messaging app where users can sign up and log in
 - How to use Firebase Cloud Firestore to store and retrieve data on the fly.
 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
 
